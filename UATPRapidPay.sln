@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UATP.RapidPay.Api", "UATP.RapidPay.Api\UATP.RapidPay.Api.csproj", "{30D78024-C27D-4894-94D2-9CB81A7274A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UATP.RapidPay.Data", "UATP.RapidPay.Data\UATP.RapidPay.Data.csproj", "{95069FAF-436B-47C2-9EC7-207028A8E4CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UATP.RapidPay.BusinessLogic", "UATP.RapidPay.BusinessLogic\UATP.RapidPay.BusinessLogic.csproj", "{76894773-DB3B-4D36-A994-01F69EDF3078}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30D78024-C27D-4894-94D2-9CB81A7274A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30D78024-C27D-4894-94D2-9CB81A7274A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30D78024-C27D-4894-94D2-9CB81A7274A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30D78024-C27D-4894-94D2-9CB81A7274A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95069FAF-436B-47C2-9EC7-207028A8E4CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95069FAF-436B-47C2-9EC7-207028A8E4CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95069FAF-436B-47C2-9EC7-207028A8E4CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95069FAF-436B-47C2-9EC7-207028A8E4CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76894773-DB3B-4D36-A994-01F69EDF3078}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76894773-DB3B-4D36-A994-01F69EDF3078}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76894773-DB3B-4D36-A994-01F69EDF3078}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76894773-DB3B-4D36-A994-01F69EDF3078}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD0EF592-9E04-400D-B152-A0AE66E5F71A}
+	EndGlobalSection
+EndGlobal
